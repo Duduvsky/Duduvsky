@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus de Azevedo 👋
 
 - 🔭 Estou "trabalhando" com maior facilidade em Python e Front-End.
-- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas.
+- 🌱 Formado em Analise e Desenvolvimento de Sistemas.
 - 🤔 Procuro pelos meus primeiros passos nesse novo caminho da minha vida.
 - 😄 Pronouns: ele/dele.
 
